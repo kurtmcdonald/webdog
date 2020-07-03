@@ -1,0 +1,21 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px red;
+}
+
+img {
+    border: 10px groove orangered;
+}
+
+.onebeach{
+    border: 10px dashed orangered;
+}
+
+.twobeach {
+    border: 10px dotted orangered;
+}
+
+.threebeach {
+    border: 10px double orangered;
+}
