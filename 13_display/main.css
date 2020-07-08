@@ -11,8 +11,9 @@ div {
 }
 
 img {
+    width: 200px;
+    box-sizing: border-box;
     border: 10px groove orangered;
-    border-radius: 70% ;
     padding: 20px;
     margin: 50px;
 
