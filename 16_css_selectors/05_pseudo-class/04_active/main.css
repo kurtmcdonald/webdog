@@ -1,0 +1,27 @@
+input {
+    /*font-size: 2rem;*/
+    font-size: 4rem;
+    margin-top: 4px;
+    border: 1px solid darkgray;
+}
+
+[type=submit] {
+    margin-top: 10px;
+    border: 1px solid darkgray;
+}
+
+/* order matters*/
+/* Link Visited Hover Active*/
+
+[type=submit]:hover{
+    background-color: orangered;
+}
+
+[type=submit]:active {
+    background-color: fuchsia;
+}
+
+input:required {
+    border: 1px solid red;
+    background-color: rgba(255, 182, 193, 0.13);
+}
