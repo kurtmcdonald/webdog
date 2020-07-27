@@ -1,0 +1,20 @@
+body {
+    font-size: 36px;
+
+}
+
+li:first-child {
+    color: red;
+}
+
+ul:first-child {
+    background-color: beige;
+}
+
+li:last-child {
+    color: green;
+}
+
+li:nth-child(even) {
+    color: paleturquoise;
+}
